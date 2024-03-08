@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishininawodi.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqfD9IdcJzC0PT1wfK-IDGAgqU-iB7McBr8Q&usqp=CAU))](https://rishininawodi.io)
 <h1 align="center">Hi 👋, I'm Rishini Nawodi</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align ="right" alt ="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCX0NYeWd4-OHe9g8JpDZ96FOYMjeBhF87uQ&usqp=CAU">
