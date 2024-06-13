@@ -1,6 +1,6 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqfD9IdcJzC0PT1wfK-IDGAgqU-iB7McBr8Q&usqp=CAU)](https://rishininawodi.io)
 <h1 align="center">Hi 👋, I'm Rishini Nawodi</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
 <img align ="right" alt ="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYxeW9hemhuem16NDE5YXR3Y2pybnR1M2RxOXhsaTJlNmxkZHByaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishininawodi&label=Profile%20views&color=0e75b6&style=flat" alt="rishininawodi" /> </p>
